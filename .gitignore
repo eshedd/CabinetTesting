@@ -1,0 +1,19 @@
+# Ignore Directories
+Library
+Temp
+obj
+**/.vs/*
+
+# Ignore Files
+.DS_Store
+*.csproj
+*.sln
+*.unityproj
+*.DotSettings
+*.pyc
+*.pyc.meta
+*.suo
+*.swp
+*.user
+*.userprefs
+*.vsp
